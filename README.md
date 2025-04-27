@@ -1,5 +1,5 @@
 # 💫 About Me:
-I know python <br>I can make telegram bot<br>I'm learning Hacking & Security and devops , AI
+I know python <br>I can make telegram bot<br>I'm learning Hacking & Security
 
 
 ## 🌐 Socials:
