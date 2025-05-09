@@ -31,5 +31,3 @@ I know Python<br>I can make Telegram bots<br>I'm learning Hacking & Security
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- 🐍 Snake animation -->
-![snake gif](https://github.com/TahaFarashi/TahaFarashi/blob/output/github-contribution-grid-snake.svg)
